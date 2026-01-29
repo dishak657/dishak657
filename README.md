@@ -11,6 +11,11 @@ Hi 👋 I’m Disha Kumari, a passionate learner and developer who enjoys buildi
 ![](https://github-readme-stats.vercel.app/api?username=dishak657&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dishak657&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dishak657&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/dishak657/dishak657/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dishak657&theme=radical&no-frame=false&no-bg=true&margin-w=4)
